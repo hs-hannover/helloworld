@@ -10,4 +10,4 @@ build/
 dist/
 venv/
 helloworld.db
-local_settings.py
+helloworld/settings/private.py
