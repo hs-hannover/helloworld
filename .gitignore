@@ -5,7 +5,9 @@
 *.pot
 *.pyc
 *.pyo
+.idea/
 build/
 dist/
+venv/
 helloworld.db
 local_settings.py
